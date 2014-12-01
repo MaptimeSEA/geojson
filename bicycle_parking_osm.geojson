@@ -1,0 +1,2593 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-12-01T21:49:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/1769031438",
+      "properties": {
+        "@id": "node/1769031438",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "4",
+        "fee": "no",
+        "note": "YALE AVE 0180 BLOCK SW SIDE ( 205) 177 FT SE/O STEWART ST",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-552",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm",
+        "start_date": "2002-01-15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3303863,
+          47.617847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031440",
+      "properties": {
+        "@id": "node/1769031440",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "LENORA ST 0100 BLOCK SE SIDE (  31) 31 FT NE/O TERRY AVE",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-979",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm",
+        "start_date": "2009-03-10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3359189,
+          47.6178622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031442",
+      "properties": {
+        "@id": "node/1769031442",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "LENORA ST 0100 BLOCK SE SIDE (  47) 47 FT NE/O TERRY AVE",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-1944",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm",
+        "start_date": "2009-03-10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3358777,
+          47.617896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031444",
+      "properties": {
+        "@id": "node/1769031444",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "LENORA ST 0100 BLOCK NW SIDE (  15) 15 FT NE/O TERRY AVE",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-206",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm",
+        "start_date": "2004-06-10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3361749,
+          47.6179409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031446",
+      "properties": {
+        "@id": "node/1769031446",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "LENORA ST 0100 BLOCK SE SIDE (  74) 74 FT NE/O TERRY AVE",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-1934",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3358082,
+          47.617953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031459",
+      "properties": {
+        "@id": "node/1769031459",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "LENORA ST 0100 BLOCK NW SIDE (  22) 22 FT NE/O TERRY AVE",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-686",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm",
+        "start_date": "2007-12-20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3361569,
+          47.6179557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031463",
+      "properties": {
+        "@id": "node/1769031463",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "YALE AVE 0180 BLOCK SW SIDE ( 274) 108 FT SE/O STEWART ST",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-545",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm",
+        "start_date": "2002-01-15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3306454,
+          47.6179974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031505",
+      "properties": {
+        "@id": "node/1769031505",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "7TH AVE 0239 BLOCK SW SIDE (   1) 1 FT NW/O DEXTER AVE",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-2062",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3424961,
+          47.6179769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031547",
+      "properties": {
+        "@id": "node/1769031547",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "LENORA ST 0100 BLOCK SE SIDE (  97) 97 FT NE/O TERRY AVE",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-978",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm",
+        "start_date": "2009-03-10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3357491,
+          47.6180016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031584",
+      "properties": {
+        "@id": "node/1769031584",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "LENORA ST 0100 BLOCK NW SIDE (  53) 53 FT NE/O TERRY AVE",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-847",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm",
+        "start_date": "2009-03-10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3360771,
+          47.6180212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031585",
+      "properties": {
+        "@id": "node/1769031585",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "8TH AVE 0220 BLOCK NE SIDE ( 358) 25 FT SE/O BELL ST",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-1888",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3402435,
+          47.6180282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031586",
+      "properties": {
+        "@id": "node/1769031586",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "4",
+        "fee": "no",
+        "note": "YALE AVE 0180 BLOCK SW SIDE ( 328) 54 FT SE/O STEWART ST",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-551",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm",
+        "start_date": "2002-01-15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3308649,
+          47.6181332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031587",
+      "properties": {
+        "@id": "node/1769031587",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "LENORA ST 0100 BLOCK NW SIDE (  74) 74 FT NE/O TERRY AVE",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-1747",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm",
+        "start_date": "2007-12-20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3360231,
+          47.6180655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031588",
+      "properties": {
+        "@id": "node/1769031588",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "LENORA ST 0100 BLOCK NW SIDE (  91) 91 FT NE/O TERRY AVE",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-924",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm",
+        "start_date": "2009-03-10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3359794,
+          47.6181014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031590",
+      "properties": {
+        "@id": "node/1769031590",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "BELL ST 0080 BLOCK NW SIDE (  35) 35 FT NE/O 8TH AVE",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-735",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3404186,
+          47.6182111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031591",
+      "properties": {
+        "@id": "node/1769031591",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "1",
+        "fee": "no",
+        "note": "VIRGINIA ST 0110 BLOCK NW SIDE ( 204) 78 FT SW/O MINOR AVE",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-1904",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3335104,
+          47.6182309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031592",
+      "properties": {
+        "@id": "node/1769031592",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "6",
+        "fee": "no",
+        "note": "WESTLAKE AVE 0220 BLOCK E SIDE ( 105) 105 FT N/O BLANCHARD ST",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-1013",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm",
+        "start_date": "2009-03-10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3382793,
+          47.6182477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031595",
+      "properties": {
+        "@id": "node/1769031595",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "9TH AVE 0220 BLOCK SW SIDE ( 233) 54 FT SE/O DENNY WAY",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-2774",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3392244,
+          47.6183358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031596",
+      "properties": {
+        "@id": "node/1769031596",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "9TH AVE 0220 BLOCK SW SIDE ( 235) 52 FT SE/O DENNY WAY",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-2777",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3392305,
+          47.6183394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031598",
+      "properties": {
+        "@id": "node/1769031598",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "9TH AVE 0220 BLOCK SW SIDE ( 238) 49 FT SE/O DENNY WAY",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-2779",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3392396,
+          47.6183448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031601",
+      "properties": {
+        "@id": "node/1769031601",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "9TH AVE 0220 BLOCK SW SIDE ( 240) 47 FT SE/O DENNY WAY",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-2782",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3392457,
+          47.6183484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031604",
+      "properties": {
+        "@id": "node/1769031604",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "9TH AVE 0220 BLOCK SW SIDE ( 243) 44 FT SE/O DENNY WAY",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-2783",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3392548,
+          47.6183538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031635",
+      "properties": {
+        "@id": "node/1769031635",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "9TH AVE 0220 BLOCK SW SIDE ( 249) 38 FT SE/O DENNY WAY",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-2788",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3392731,
+          47.6183645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031636",
+      "properties": {
+        "@id": "node/1769031636",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "9TH AVE 0220 BLOCK SW SIDE ( 252) 35 FT SE/O DENNY WAY",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-2789",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3392822,
+          47.6183699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031651",
+      "properties": {
+        "@id": "node/1769031651",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "9TH AVE 0220 BLOCK SW SIDE ( 255) 32 FT SE/O DENNY WAY",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-2790",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3392913,
+          47.6183753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031652",
+      "properties": {
+        "@id": "node/1769031652",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "4",
+        "fee": "no",
+        "note": "DENNY WAY 0130 BLOCK S SIDE (  17) 17 FT E/O STEWART ST",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-475",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm",
+        "start_date": "2008-10-16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3306065,
+          47.6183861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031709",
+      "properties": {
+        "@id": "node/1769031709",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "STEWART ST 0130 BLOCK NW SIDE (  61) 54 FT SW/O YALE AVE N",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-553",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm",
+        "start_date": "2001-11-02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3306295,
+          47.618693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031727",
+      "properties": {
+        "@id": "node/1769031727",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "YALE AVE N 0010 BLOCK W SIDE ( 124) 124 FT N/O STEWART ST",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-1408",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3305039,
+          47.6191349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031729",
+      "properties": {
+        "@id": "node/1769031729",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "YALE AVE N 0010 BLOCK W SIDE ( 137) 137 FT N/O STEWART ST",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-1409",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3305041,
+          47.6191704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031732",
+      "properties": {
+        "@id": "node/1769031732",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "DEXTER AVE N 0010 BLOCK W SIDE ( 366) 20 FT S/O JOHN ST",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-1542",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3426117,
+          47.6196057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031733",
+      "properties": {
+        "@id": "node/1769031733",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "JOHN ST 0100 BLOCK S SIDE (  84) 44 FT W/O BOREN AVE N",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-1348",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3361087,
+          47.6196441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031735",
+      "properties": {
+        "@id": "node/1769031735",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "JOHN ST 0080 BLOCK N SIDE ( 237) 60 FT W/O 9TH AVE N",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-1331",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3400341,
+          47.6198127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031737",
+      "properties": {
+        "@id": "node/1769031737",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "YALE AVE N 0020 BLOCK W SIDE (  38) 38 FT N/O JOHN ST",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-452",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm",
+        "start_date": "2009-03-13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3305074,
+          47.6198214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031820",
+      "properties": {
+        "@id": "node/1769031820",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "YALE AVE N 0020 BLOCK W SIDE (  81) 81 FT N/O JOHN ST",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-453",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm",
+        "start_date": "2009-03-13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.330508,
+          47.6199391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031827",
+      "properties": {
+        "@id": "node/1769031827",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "WESTLAKE AVE N 0020 BLOCK W SIDE ( 120) 120 FT N/O JOHN ST",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-762",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm",
+        "start_date": "2009-03-13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3386222,
+          47.6200878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031830",
+      "properties": {
+        "@id": "node/1769031830",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "9TH AVE N 0020 BLOCK W SIDE ( 180) 180 FT N/O JOHN ST",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-502",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm",
+        "start_date": "2002-03-13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3398915,
+          47.6202637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031831",
+      "properties": {
+        "@id": "node/1769031831",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "WESTLAKE AVE N 0020 BLOCK W SIDE ( 235) 145 FT S/O THOMAS ST",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-1053",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm",
+        "start_date": "2009-04-16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3386195,
+          47.6204026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031832",
+      "properties": {
+        "@id": "node/1769031832",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "DEXTER AVE N 0020 BLOCK E SIDE ( 232) 154 FT S/O THOMAS ST",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-1139",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3421871,
+          47.6204086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031834",
+      "properties": {
+        "@id": "node/1769031834",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "YALE AVE N 0020 BLOCK W SIDE ( 325) 69 FT S/O THOMAS ST",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-451",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm",
+        "start_date": "2009-03-13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3305115,
+          47.6206066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031835",
+      "properties": {
+        "@id": "node/1769031835",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "DEXTER AVE N 0020 BLOCK E SIDE ( 319) 67 FT S/O THOMAS ST",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-1138",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3421851,
+          47.6206467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031836",
+      "properties": {
+        "@id": "node/1769031836",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "3",
+        "fee": "no",
+        "note": "8TH AVE N 0020 BLOCK E SIDE ( 329) 72 FT S/O THOMAS ST",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-1476",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3409647,
+          47.6206759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031842",
+      "properties": {
+        "@id": "node/1769031842",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "THOMAS ST 0125 BLOCK S SIDE (  38) 38 FT E/O PONTIUS AVE N",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-450",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm",
+        "start_date": "2009-03-13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.331494,
+          47.6207689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031844",
+      "properties": {
+        "@id": "node/1769031844",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "THOMAS ST 0095 BLOCK N SIDE ( 250) 46 FT W/O TERRY AVE N",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-1350",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3373026,
+          47.6209276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031846",
+      "properties": {
+        "@id": "node/1769031846",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "THOMAS ST 0090 BLOCK N SIDE (  24) 24 FT E/O 9TH AVE N",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-1369",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.339586,
+          47.6209715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031849",
+      "properties": {
+        "@id": "node/1769031849",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "4",
+        "fee": "no",
+        "note": "WESTLAKE AVE N 0030 BLOCK W SIDE (  40) 40 FT N/O THOMAS ST",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-1239",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3386424,
+          47.6210442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031864",
+      "properties": {
+        "@id": "node/1769031864",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "DEXTER AVE N 0030 BLOCK E SIDE ( 128) 128 FT N/O THOMAS ST",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-1223",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3421917,
+          47.621295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031871",
+      "properties": {
+        "@id": "node/1769031871",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "EASTLAKE AVE E 0030 BLOCK W SIDE ( 196) 196 FT N/O THOMAS ST",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-1424",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3292503,
+          47.6213973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031872",
+      "properties": {
+        "@id": "node/1769031872",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "WESTLAKE AVE N 0030 BLOCK E SIDE ( 174) 174 FT N/O THOMAS ST",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-1240",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3383283,
+          47.6214324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031887",
+      "properties": {
+        "@id": "node/1769031887",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "DEXTER AVE N 0030 BLOCK W SIDE ( 238) 146 FT S/O HARRISON ST",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-1178",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3424975,
+          47.6216229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031891",
+      "properties": {
+        "@id": "node/1769031891",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "TERRY AVE N 0030 BLOCK W SIDE ( 325) 69 FT S/O HARRISON ST",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-1381",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3372913,
+          47.6217991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031892",
+      "properties": {
+        "@id": "node/1769031892",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "9TH AVE N 0030 BLOCK E SIDE ( 328) 57 FT S/O HARRISON ST",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-1315",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.339624,
+          47.6218297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031897",
+      "properties": {
+        "@id": "node/1769031897",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "9TH AVE N 0030 BLOCK W SIDE ( 341) 44 FT S/O HARRISON ST",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-1279",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3398274,
+          47.6218701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031898",
+      "properties": {
+        "@id": "node/1769031898",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "HARRISON ST 0115 BLOCK S SIDE ( 151) 139 FT W/O MINOR AVE N",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-1465",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3336415,
+          47.6218775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031899",
+      "properties": {
+        "@id": "node/1769031899",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "WESTLAKE AVE N 0030 BLOCK W SIDE ( 347) 35 FT S/O HARRISON ST",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-1380",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3386354,
+          47.6218834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031902",
+      "properties": {
+        "@id": "node/1769031902",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "WESTLAKE AVE N 0030 BLOCK E SIDE ( 359) 23 FT S/O HARRISON ST",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-1179",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3382784,
+          47.6219121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031917",
+      "properties": {
+        "@id": "node/1769031917",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "FAIRVIEW AVE N 0040 BLOCK W SIDE (  24) 24 FT N/O HARRISON ST",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-1459",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3344776,
+          47.6221499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031921",
+      "properties": {
+        "@id": "node/1769031921",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "DEXTER AVE N 0040 BLOCK W SIDE (  31) 31 FT N/O HARRISON ST",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-1238",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3425262,
+          47.6222081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031924",
+      "properties": {
+        "@id": "node/1769031924",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "8",
+        "fee": "no",
+        "note": "DEXTER AVE N 0040 BLOCK E SIDE (  69) 69 FT N/O HARRISON ST",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-1314",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3422217,
+          47.6223069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031931",
+      "properties": {
+        "@id": "node/1769031931",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "8TH AVE N 0040 BLOCK E SIDE ( 109) 109 FT N/O HARRISON ST",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-749",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm",
+        "start_date": "2009-03-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3409553,
+          47.6224119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031934",
+      "properties": {
+        "@id": "node/1769031934",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "8TH AVE N 0040 BLOCK E SIDE ( 125) 125 FT N/O HARRISON ST",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-653",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm",
+        "start_date": "2008-03-17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3409553,
+          47.6224628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031939",
+      "properties": {
+        "@id": "node/1769031939",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "8TH AVE N 0040 BLOCK E SIDE ( 169) 169 FT N/O HARRISON ST",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-750",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm",
+        "start_date": "2009-03-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3409553,
+          47.6225772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031940",
+      "properties": {
+        "@id": "node/1769031940",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "FAIRVIEW AVE N 0040 BLOCK W SIDE ( 188) 197 FT S/O REPUBLICAN ST",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-1543",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3344796,
+          47.6225985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031941",
+      "properties": {
+        "@id": "node/1769031941",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "DEXTER AVE N 0040 BLOCK E SIDE ( 194) 191 FT S/O REPUBLICAN ST",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-1313",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3422217,
+          47.6226566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031946",
+      "properties": {
+        "@id": "node/1769031946",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "PONTIUS AVE N 0040 BLOCK W SIDE ( 258) 123 FT S/O REPUBLICAN ST",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-685",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm",
+        "start_date": "2007-12-20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3317987,
+          47.622734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031951",
+      "properties": {
+        "@id": "node/1769031951",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "9TH AVE N 0040 BLOCK W SIDE ( 261) 129 FT S/O REPUBLICAN ST",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-746",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm",
+        "start_date": "2009-03-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3398243,
+          47.6228152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031952",
+      "properties": {
+        "@id": "node/1769031952",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "9TH AVE N 0040 BLOCK W SIDE ( 277) 113 FT S/O REPUBLICAN ST",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-747",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm",
+        "start_date": "2009-03-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3398243,
+          47.6228589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031954",
+      "properties": {
+        "@id": "node/1769031954",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "9TH AVE N 0040 BLOCK W SIDE ( 292) 98 FT S/O REPUBLICAN ST",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-748",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm",
+        "start_date": "2009-03-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3398243,
+          47.6228991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031957",
+      "properties": {
+        "@id": "node/1769031957",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "PONTIUS AVE N 0040 BLOCK W SIDE ( 326) 55 FT S/O REPUBLICAN ST",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-674",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm",
+        "start_date": "2007-12-20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3317987,
+          47.6229194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031958",
+      "properties": {
+        "@id": "node/1769031958",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "8TH AVE N 0040 BLOCK E SIDE ( 299) 101 FT S/O REPUBLICAN ST",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-1512",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3409553,
+          47.6229369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031959",
+      "properties": {
+        "@id": "node/1769031959",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "PONTIUS AVE N 0040 BLOCK E SIDE ( 343) 37 FT S/O REPUBLICAN ST",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-1436",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3316229,
+          47.6230253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031962",
+      "properties": {
+        "@id": "node/1769031962",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "EASTLAKE AVE E 0040 BLOCK W SIDE ( 372) 2 FT S/O REPUBLICAN ST",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-258",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm",
+        "start_date": "2008-04-23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3292324,
+          47.6230253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769031964",
+      "properties": {
+        "@id": "node/1769031964",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "YALE AVE N 0040 BLOCK E SIDE ( 376) 18 FT S/O REPUBLICAN ST",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-751",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm",
+        "start_date": "2009-03-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3303639,
+          47.6230253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769032022",
+      "properties": {
+        "@id": "node/1769032022",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "REPUBLICAN ST 0130 BLOCK S SIDE (  11) 11 FT E/O YALE AVE N",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-752",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm",
+        "start_date": "2009-03-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3303182,
+          47.6230827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769032125",
+      "properties": {
+        "@id": "node/1769032125",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "REPUBLICAN ST 0110 BLOCK S SIDE ( 275) 51 FT W/O FAIRVIEW AVE N",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-1466",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3346522,
+          47.6231512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769032127",
+      "properties": {
+        "@id": "node/1769032127",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "8TH AVE N 0040 BLOCK E SIDE ( 359) 41 FT S/O REPUBLICAN ST",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-1458",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3409553,
+          47.6231058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769032338",
+      "properties": {
+        "@id": "node/1769032338",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "WESTLAKE AVE N 0050 BLOCK W SIDE (  42) 42 FT N/O REPUBLICAN ST",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-1316",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3385543,
+          47.6233874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769032346",
+      "properties": {
+        "@id": "node/1769032346",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "WESTLAKE AVE N 0050 BLOCK E SIDE (  45) 45 FT N/O REPUBLICAN ST",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-650",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm",
+        "start_date": "2007-12-20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3383353,
+          47.6233948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769032443",
+      "properties": {
+        "@id": "node/1769032443",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "WESTLAKE AVE N 0050 BLOCK E SIDE ( 129) 129 FT N/O REPUBLICAN ST",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-1180",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3383334,
+          47.6236246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769032488",
+      "properties": {
+        "@id": "node/1769032488",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "DEXTER AVE N 0050 BLOCK W SIDE ( 130) 130 FT N/O REPUBLICAN ST",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-1347",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3425767,
+          47.6236279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769032497",
+      "properties": {
+        "@id": "node/1769032497",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "3",
+        "fee": "no",
+        "note": "8TH AVE N 0050 BLOCK E SIDE ( 138) 138 FT N/O REPUBLICAN ST",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-2076",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3409592,
+          47.6236575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769032500",
+      "properties": {
+        "@id": "node/1769032500",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "MINOR AVE N 0050 BLOCK E SIDE ( 180) 180 FT N/O REPUBLICAN ST",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-2078",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3329147,
+          47.6236664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769032541",
+      "properties": {
+        "@id": "node/1769032541",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "3",
+        "fee": "no",
+        "note": "8TH AVE N 0050 BLOCK E SIDE ( 144) 144 FT N/O REPUBLICAN ST",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-2077",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3409565,
+          47.6236773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769032646",
+      "properties": {
+        "@id": "node/1769032646",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "3",
+        "fee": "no",
+        "note": "8TH AVE N 0050 BLOCK E SIDE ( 189) 189 FT N/O REPUBLICAN ST",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-1379",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3409247,
+          47.6237989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769032647",
+      "properties": {
+        "@id": "node/1769032647",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "3",
+        "fee": "no",
+        "note": "8TH AVE N 0050 BLOCK E SIDE ( 195) 195 FT N/O REPUBLICAN ST",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-2055",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3409245,
+          47.6238154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769032651",
+      "properties": {
+        "@id": "node/1769032651",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "DEXTER AVE N 0050 BLOCK W SIDE ( 239) 142 FT S/O MERCER ST",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-2054",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3425741,
+          47.6239259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769032663",
+      "properties": {
+        "@id": "node/1769032663",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "WESTLAKE AVE N 0050 BLOCK E SIDE ( 412) 32 FT S/O MERCER ST",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-1469",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3383271,
+          47.6243988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769032665",
+      "properties": {
+        "@id": "node/1769032665",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "EASTLAKE AVE E 0060 BLOCK W SIDE (  31) 31 FT N/O MERCER ST",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-2133",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3292462,
+          47.6244102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769032766",
+      "properties": {
+        "@id": "node/1769032766",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "4",
+        "fee": "no",
+        "note": "ROY ST 0080 BLOCK N SIDE ( 251) 27 FT W/O 9TH AVE N",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-1683",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3399322,
+          47.6254926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769032774",
+      "properties": {
+        "@id": "node/1769032774",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "BROAD ST 0090 BLOCK NW SIDE ( 161) 102 FT SW/O VALLEY ST",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-1682",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.339081,
+          47.6257228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769032786",
+      "properties": {
+        "@id": "node/1769032786",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "9TH AVE N 0070 BLOCK E SIDE ( 296) 125 FT S/O WESTLAKE AVE N",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-1680",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.339542,
+          47.626326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769032787",
+      "properties": {
+        "@id": "node/1769032787",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "9TH AVE N 0070 BLOCK E SIDE ( 313) 108 FT S/O WESTLAKE AVE N",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-1681",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.339539,
+          47.6263725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769032802",
+      "properties": {
+        "@id": "node/1769032802",
+        "amenity": "bicycle_parking",
+        "attribution": "City of Seattle, Department of Transportation, Traffic Management, Bicycle Program",
+        "capacity": "2",
+        "fee": "no",
+        "note": "MINOR AVE N 0080 BLOCK E SIDE ( 228) 86 FT S/O ALOHA ST",
+        "operator": "SDOT",
+        "sdot:bike_rack:condition": "good",
+        "sdot:bike_rack:facility": "SGL",
+        "sdot:bike_rack:id": "BKR-2132",
+        "sdot:bike_rack:type": "BKR",
+        "source": "SDOT Bike Rack Import 2012",
+        "source:license": "Public Domain",
+        "source:url": "http://www.seattle.gov/transportation/bikeprogram.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3324568,
+          47.6266258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2312065983",
+      "properties": {
+        "@id": "node/2312065983",
+        "amenity": "bicycle_parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3367947,
+          47.6231014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2812594265",
+      "properties": {
+        "@id": "node/2812594265",
+        "access": "public",
+        "amenity": "bicycle_parking",
+        "capacity": "5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3361834,
+          47.6238671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2812594266",
+      "properties": {
+        "@id": "node/2812594266",
+        "access": "public",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "rack",
+        "capacity": "5",
+        "covered": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3356765,
+          47.6239548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2812594267",
+      "properties": {
+        "@id": "node/2812594267",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "rack",
+        "capacity": "5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3368245,
+          47.6239946
+        ]
+      }
+    }
+  ]
+}
