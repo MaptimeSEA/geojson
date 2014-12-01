@@ -1,0 +1,83 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cape Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.45703125,
+          -33.9433599465788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mahtomedi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.251953125,
+          45.02695045318546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Madison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.40673828125,
+          43.08493742707592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Iowa City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.549072265625,
+          41.65854925140818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seattle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33276367187499,
+          47.660762874112834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lingira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.34419250488281,
+          0.3186018737056434
+        ]
+      }
+    }
+  ]
+}
