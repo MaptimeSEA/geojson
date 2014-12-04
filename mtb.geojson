@@ -1,0 +1,96 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Trail Name": "Tiger Mountain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.94549560546875,
+          47.4833368312352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Trail Name": "Douthie Hill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.97793960571289,
+          47.57698892610688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Trail Name": "Grand Ridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.97587966918945,
+          47.56807136834922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Trail Name": "Dash Point"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.40782260894775,
+          47.30571691666616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Trail Name": "Swan Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.39902496337889,
+          47.207091428339055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Trail Name": "Capitol Forest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.06747436523438,
+          46.997114405385986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Trail Name": "Mt Rainer Enduro Course"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.53282165527342,
+          47.03760841927586
+        ]
+      }
+    }
+  ]
+}
