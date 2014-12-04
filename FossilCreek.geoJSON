@@ -3,7 +3,10 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Creek": "Mostly correct"
+        "What": "It is"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
