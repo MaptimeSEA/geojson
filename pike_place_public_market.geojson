@@ -1,0 +1,10 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-122.34267, 47.60934]
+  },
+  "properties": {
+    "name": "Pike Place Public Market"
+  }
+}
