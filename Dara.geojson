@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Home",
+        "Year": "1980-2002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.3037109375,
+          10.487811882056683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "School",
+        "Year": 2008
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30864524841309,
+          47.65619579590381
+        ]
+      }
+    }
+  ]
+}
