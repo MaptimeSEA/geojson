@@ -1,0 +1,32 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "My first point"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.508544921875,
+          47.249406957888446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name" : "WeWork"
+        "Comment" : "This is the last meeting of MapTimeSEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31559753417967,
+          47.57652571374621
+        ]
+      }
+    }
+  ]
+}
