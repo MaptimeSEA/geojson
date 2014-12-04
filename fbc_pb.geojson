@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Label": "Fremont Brewing",
+        "Description": "Best brewery in Seattle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34443396329878,
+          47.649105916404324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Label": "Peddlers Brewing",
+        "Description": "Another great brewery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.37667679786684,
+          47.663862767613836
+        ]
+      }
+    }
+  ]
+}
