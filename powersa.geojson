@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {"name": "powersa"},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
