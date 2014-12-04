@@ -1,7 +1,10 @@
 {
   "type": "FeatureCollection",
-    "crs": {
-      'type': 'EPSG', 'properties': {'code': 2163}
+"crs": {
+    "type": "name",
+    "properties": {
+      "name": "EPSG:2163"
+      }
     }
   "features": [
     {
