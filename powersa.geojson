@@ -3,7 +3,9 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {"name": "powersa"},
+      "properties": {
+        "user": "powersa"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -69,6 +71,19 @@
               68.00757101804004
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "user": "powersa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.10937499999999,
+          61.77312286453148
         ]
       }
     }
