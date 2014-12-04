@@ -3,7 +3,7 @@
 "crs": {
     "type": "name",
     "properties": {
-      "name": "EPSG:4326"
+      "name": "urn:ogc:def:area:EPSG::2297"
       }
     }
   "features": [
