@@ -1,0 +1,17 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {"name": "Flying Bike Cooperative Brewery",
+                     "openDate": "June 2015"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35510110855103,
+          47.692053229254135
+        ]
+      }
+    }
+  ]
+}
