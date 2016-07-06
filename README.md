@@ -15,6 +15,12 @@ From your own account, `fork` this repository with the fork button.
 git clone https://github.com/USERNAME/geojson.git
 ```
 
+This will create a new folder called `geojson/`. Don't forget to navigate into that project once you've cloned it with:
+
+```
+cd geojson/
+```
+
 ### STEP 3: Make a GeoJSON
 
 Head to [geojson.io](https://geojson.io) to create a new GeoJSON file. Once you've created the file, you can download it as a GeoJSON file format from the menu:
